@@ -1,4 +1,4 @@
-# CoffeeMachineMiniProject ☕ [In-progress]
+# CoffeeMachineMiniProjectGUI ☕ [In-progress]
 
 A **Python-based coffee machine simulator** that manages ingredient stock, processes user orders, and handles exceptions such as out-of-stock situations.
 
@@ -26,4 +26,5 @@ Designed to demonstrate:
 
    ```bash
    git clone https://github.com/shaikhf04/CoffeeMachineMiniProject.git
-   cd CoffeeMachineMiniProject
+   cd CoffeeMachineMiniProjectGUI
+
