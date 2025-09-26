@@ -1,0 +1,15 @@
+import tkinter as tk
+
+def on_click():
+    print("Image button clicked!")
+
+root = tk.Tk()
+
+# Load the image
+image = tk.PhotoImage(file="img/coffee.png")  # PNG format works best
+
+# Create a button with the image
+img_button = tk.Button(root, image=image, command=on_click, borderwidth=0)
+img_button.pack()
+
+root.mainloop()
