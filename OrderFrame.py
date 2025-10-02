@@ -32,13 +32,6 @@ def build_order_frame(parent, go_back):
         label = tk.Label(order_frame, text=name)
         label.pack(pady=2)
 
-    # Create button with image
-    back_img = tk.PhotoImage(file="img/previous.png")
-    back_img = back_img.subsample(14,14)
-    back_button = tk.Button(order_frame, image=back_img, command=go_back, borderwidth=0)
-    back_button.image = back_img
-    back_button.pack(pady=5)
-
     # Create button to proceed to payment
     next_img = tk.PhotoImage(file="img/next.png")
     next_img = next_img.subsample(14,14)
@@ -57,5 +50,12 @@ def build_order_frame(parent, go_back):
     next_button = tk.Button(order_frame, image=next_img, command=go_to_payment, borderwidth=0)
     next_button.image = next_img
     next_button.pack(pady=5)
+    
+    # Create button with image
+    back_img = tk.PhotoImage(file="img/previous.png")
+    back_img = back_img.subsample(14,14)
+    back_button = tk.Button(order_frame, image=back_img, command=go_back, borderwidth=0)
+    back_button.image = back_img
+    back_button.pack(pady=5)
 
     return order_frame
