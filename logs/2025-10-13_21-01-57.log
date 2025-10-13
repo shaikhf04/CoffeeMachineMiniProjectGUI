@@ -1,0 +1,53 @@
+=== New Coffee Bot Session: 2025-10-13 21:01:57 ===
+[2025-10-13 21:01:57] [INFO] - Welcome screen loaded successfully.
+[2025-10-13 21:01:59] [INFO] - Order screen loaded successfully.
+[2025-10-13 21:02:10] [INFO] - Selected Cappuccino coffee
+[2025-10-13 21:02:11] [INFO] - Selected coffee: Cappuccino selected. Price: $20.00 confirmed.
+[2025-10-13 21:02:11] [INFO] - Payment for Cappuccino confirmed.
+[2025-10-13 21:02:11] [INFO] - Build payment frame
+[2025-10-13 21:02:13] [INFO] - Attempting to make Cappuccino
+[2025-10-13 21:02:13] [INFO] - Checking stock for coffee: Required 1, In Stock 5
+[2025-10-13 21:02:13] [INFO] - Checking stock for milk: Required 2, In Stock 5
+[2025-10-13 21:02:13] [INFO] - Checking stock for water: Required 1, In Stock 5
+[2025-10-13 21:02:13] [INFO] - Checking stock for sugar: Required 0, In Stock 5
+[2025-10-13 21:02:13] [INFO] - Stock is sufficient for Cappuccino.
+[2025-10-13 21:02:13] [INFO] - Successfully made Cappuccino. 
+Updated stock:
+[2025-10-13 21:02:13] [INFO] - coffee: 4
+[2025-10-13 21:02:13] [INFO] - milk: 3
+[2025-10-13 21:02:13] [INFO] - water: 4
+[2025-10-13 21:02:13] [INFO] - sugar: 5
+[2025-10-13 21:02:19] [INFO] - Order screen loaded successfully.
+[2025-10-13 21:02:22] [INFO] - Selected Black Coffee coffee
+[2025-10-13 21:02:25] [INFO] - Selected coffee: Black Coffee selected. Price: $10.00 confirmed.
+[2025-10-13 21:02:25] [INFO] - Payment for Black Coffee confirmed.
+[2025-10-13 21:02:25] [INFO] - Build payment frame
+[2025-10-13 21:02:27] [INFO] - Attempting to make Black Coffee
+[2025-10-13 21:02:27] [INFO] - Checking stock for coffee: Required 1, In Stock 4
+[2025-10-13 21:02:27] [INFO] - Checking stock for milk: Required 0, In Stock 3
+[2025-10-13 21:02:27] [INFO] - Checking stock for water: Required 1, In Stock 4
+[2025-10-13 21:02:27] [INFO] - Checking stock for sugar: Required 0, In Stock 5
+[2025-10-13 21:02:27] [INFO] - Stock is sufficient for Black Coffee.
+[2025-10-13 21:02:27] [INFO] - Successfully made Black Coffee. 
+Updated stock:
+[2025-10-13 21:02:27] [INFO] - coffee: 3
+[2025-10-13 21:02:27] [INFO] - milk: 3
+[2025-10-13 21:02:27] [INFO] - water: 3
+[2025-10-13 21:02:27] [INFO] - sugar: 5
+[2025-10-13 21:02:34] [INFO] - Order screen loaded successfully.
+[2025-10-13 21:02:35] [INFO] - Selected Latte coffee
+[2025-10-13 21:02:36] [INFO] - Selected coffee: Latte selected. Price: $15.00 confirmed.
+[2025-10-13 21:02:36] [INFO] - Payment for Latte confirmed.
+[2025-10-13 21:02:36] [INFO] - Build payment frame
+[2025-10-13 21:02:38] [INFO] - Attempting to make Latte
+[2025-10-13 21:02:38] [INFO] - Checking stock for coffee: Required 1, In Stock 3
+[2025-10-13 21:02:38] [INFO] - Checking stock for milk: Required 1, In Stock 3
+[2025-10-13 21:02:38] [INFO] - Checking stock for water: Required 1, In Stock 3
+[2025-10-13 21:02:38] [INFO] - Checking stock for sugar: Required 1, In Stock 5
+[2025-10-13 21:02:38] [INFO] - Stock is sufficient for Latte.
+[2025-10-13 21:02:38] [INFO] - Successfully made Latte. 
+Updated stock:
+[2025-10-13 21:02:38] [INFO] - coffee: 2
+[2025-10-13 21:02:38] [INFO] - milk: 2
+[2025-10-13 21:02:38] [INFO] - water: 2
+[2025-10-13 21:02:38] [INFO] - sugar: 4

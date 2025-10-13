@@ -3,7 +3,7 @@
 item = ["Black Coffee","Latte","Cappuccino" ]
 
 #stock initialization
-instock = { "coffee": 2, "milk": 2, "water": 2, "sugar": 2 }
+instock = { "coffee": 5, "milk": 5, "water": 5, "sugar": 5 }
 
 #menu items and their cost
 bill = {"Black Coffee": 10, "Latte" : 15, "Cappuccino" : 20}

@@ -1,5 +1,6 @@
 import tkinter as tk
 from PaymentFrame import build_payment_frame
+from logger import logger
 
 def build_order_frame(parent, go_back):
     order_frame = tk.Frame(parent)
@@ -17,6 +18,7 @@ def build_order_frame(parent, go_back):
 
     def select_coffee(name):
         selected_coffee.set(name)
+        logger(f"Selected {name} coffee")
         # Highlight selected button
         for btn_name, btn in coffee_buttons.items():
             if btn_name == name:
@@ -40,11 +42,13 @@ def build_order_frame(parent, go_back):
         if selected_coffee.get():
             order_frame.pack_forget()
             payment_frame = build_payment_frame(parent, go_back, selected_coffee.get())
+            logger("Build payment frame")
             payment_frame.pack()
         else:
             # Show a warning if no coffee is selected
             warning = tk.Label(order_frame, text="Please select a coffee!", fg="red")
             warning.pack()
+            logger("Warning: No coffee selected")
             order_frame.after(1500, warning.destroy)
 
     next_button = tk.Button(order_frame, image=next_img, command=go_to_payment, borderwidth=0)

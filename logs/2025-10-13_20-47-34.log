@@ -1,0 +1,9 @@
+=== New Coffee Bot Session: 2025-10-13 20:47:34 ===
+[2025-10-13 20:47:34] [INFO] - Order frame created
+[2025-10-13 20:47:34] [INFO] - Welcome screen loaded successfully.
+[2025-10-13 20:47:38] [INFO] - Selected Black Coffee coffee
+[2025-10-13 20:47:40] [INFO] - Payment for Black Coffee confirmed.
+[2025-10-13 20:47:42] [INFO] - Attempting to make Black Coffee
+[2025-10-13 20:47:42] [INFO] - Checking stock for coffee: Required 10, In Stock 2
+[2025-10-13 20:47:42] [STOCK_ERROR] - Not enough coffee in stock to make Black Coffee. 
+Required: 10, In Stock: 2
