@@ -1,0 +1,79 @@
+=== New Coffee Bot Session: 2025-11-01 14:34:52 ===
+[2025-11-01 14:34:53] [INFO] - Welcome screen loaded successfully.
+[2025-11-01 14:34:55] [INFO] - Order screen loaded successfully.
+[2025-11-01 14:35:06] [INFO] - Selected Black Coffee coffee
+[2025-11-01 14:35:08] [INFO] - Selected coffee: Black Coffee selected. Price: $10.00 confirmed.
+[2025-11-01 14:35:08] [INFO] - Payment for Black Coffee confirmed.
+[2025-11-01 14:35:08] [INFO] - Build payment frame
+[2025-11-01 14:35:13] [INFO] - Attempting to make Black Coffee
+[2025-11-01 14:35:13] [INFO] - Checking stock for coffee: Required 1, In Stock 5
+[2025-11-01 14:35:13] [INFO] - Checking stock for milk: Required 0, In Stock 5
+[2025-11-01 14:35:13] [INFO] - Checking stock for water: Required 1, In Stock 5
+[2025-11-01 14:35:13] [INFO] - Checking stock for sugar: Required 0, In Stock 5
+[2025-11-01 14:35:13] [INFO] - Stock is sufficient for Black Coffee.
+[2025-11-01 14:35:13] [INFO] - Successfully made Black Coffee. 
+Updated stock:
+[2025-11-01 14:35:13] [INFO] - coffee: 4
+[2025-11-01 14:35:13] [INFO] - milk: 5
+[2025-11-01 14:35:13] [INFO] - water: 4
+[2025-11-01 14:35:13] [INFO] - sugar: 5
+[2025-11-01 14:35:24] [INFO] - Order screen loaded successfully.
+[2025-11-01 14:35:25] [INFO] - Selected Latte coffee
+[2025-11-01 14:35:26] [INFO] - Selected coffee: Latte selected. Price: $15.00 confirmed.
+[2025-11-01 14:35:26] [INFO] - Payment for Latte confirmed.
+[2025-11-01 14:35:26] [INFO] - Build payment frame
+[2025-11-01 14:35:28] [INFO] - Attempting to make Latte
+[2025-11-01 14:35:28] [INFO] - Checking stock for coffee: Required 1, In Stock 4
+[2025-11-01 14:35:28] [INFO] - Checking stock for milk: Required 1, In Stock 5
+[2025-11-01 14:35:28] [INFO] - Checking stock for water: Required 1, In Stock 4
+[2025-11-01 14:35:28] [INFO] - Checking stock for sugar: Required 1, In Stock 5
+[2025-11-01 14:35:28] [INFO] - Stock is sufficient for Latte.
+[2025-11-01 14:35:28] [INFO] - Successfully made Latte. 
+Updated stock:
+[2025-11-01 14:35:28] [INFO] - coffee: 3
+[2025-11-01 14:35:28] [INFO] - milk: 4
+[2025-11-01 14:35:28] [INFO] - water: 3
+[2025-11-01 14:35:28] [INFO] - sugar: 4
+[2025-11-01 14:35:32] [INFO] - Order screen loaded successfully.
+[2025-11-01 14:35:33] [INFO] - Selected Cappuccino coffee
+[2025-11-01 14:35:34] [INFO] - Selected coffee: Cappuccino selected. Price: $20.00 confirmed.
+[2025-11-01 14:35:34] [INFO] - Payment for Cappuccino confirmed.
+[2025-11-01 14:35:34] [INFO] - Build payment frame
+[2025-11-01 14:35:35] [INFO] - Attempting to make Cappuccino
+[2025-11-01 14:35:35] [INFO] - Checking stock for coffee: Required 1, In Stock 3
+[2025-11-01 14:35:35] [INFO] - Checking stock for milk: Required 2, In Stock 4
+[2025-11-01 14:35:35] [INFO] - Checking stock for water: Required 1, In Stock 3
+[2025-11-01 14:35:35] [INFO] - Checking stock for sugar: Required 0, In Stock 4
+[2025-11-01 14:35:35] [INFO] - Stock is sufficient for Cappuccino.
+[2025-11-01 14:35:35] [INFO] - Successfully made Cappuccino. 
+Updated stock:
+[2025-11-01 14:35:35] [INFO] - coffee: 2
+[2025-11-01 14:35:35] [INFO] - milk: 2
+[2025-11-01 14:35:35] [INFO] - water: 2
+[2025-11-01 14:35:35] [INFO] - sugar: 4
+[2025-11-01 14:35:42] [INFO] - Order screen loaded successfully.
+[2025-11-01 14:35:43] [INFO] - Selected coffee: Cappuccino selected. Price: $20.00 confirmed.
+[2025-11-01 14:35:43] [INFO] - Payment for Cappuccino confirmed.
+[2025-11-01 14:35:43] [INFO] - Build payment frame
+[2025-11-01 14:35:44] [INFO] - Attempting to make Cappuccino
+[2025-11-01 14:35:44] [INFO] - Checking stock for coffee: Required 1, In Stock 2
+[2025-11-01 14:35:44] [INFO] - Checking stock for milk: Required 2, In Stock 2
+[2025-11-01 14:35:44] [INFO] - Checking stock for water: Required 1, In Stock 2
+[2025-11-01 14:35:44] [INFO] - Checking stock for sugar: Required 0, In Stock 4
+[2025-11-01 14:35:44] [INFO] - Stock is sufficient for Cappuccino.
+[2025-11-01 14:35:44] [INFO] - Successfully made Cappuccino. 
+Updated stock:
+[2025-11-01 14:35:44] [INFO] - coffee: 1
+[2025-11-01 14:35:44] [INFO] - milk: 0
+[2025-11-01 14:35:44] [INFO] - water: 1
+[2025-11-01 14:35:44] [INFO] - sugar: 4
+[2025-11-01 14:35:48] [INFO] - Order screen loaded successfully.
+[2025-11-01 14:35:49] [INFO] - Selected coffee: Cappuccino selected. Price: $20.00 confirmed.
+[2025-11-01 14:35:49] [INFO] - Payment for Cappuccino confirmed.
+[2025-11-01 14:35:50] [INFO] - Build payment frame
+[2025-11-01 14:35:55] [INFO] - Attempting to make Cappuccino
+[2025-11-01 14:35:55] [INFO] - Checking stock for coffee: Required 1, In Stock 1
+[2025-11-01 14:35:55] [INFO] - Checking stock for milk: Required 2, In Stock 0
+[2025-11-01 14:35:55] [STOCK_ERROR] - Not enough milk in stock to make Cappuccino. 
+Required: 2, In Stock: 0
+[2025-11-01 14:35:55] [INFO] - Out of stock for Cappuccino.
