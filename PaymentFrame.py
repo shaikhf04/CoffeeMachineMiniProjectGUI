@@ -24,9 +24,24 @@ def build_payment_frame(parent, go_back, selected_coffee):
     def on_confirm():
         try:
             make_coffee(selected_coffee)
-            messagebox.showinfo("Success", f"{selected_coffee} is ready!")        
-            payment_frame.pack_forget()
-            show_success_frame(parent, go_back, price)
+             # 1. Show the “brewing” UI
+            brewing = tk.Toplevel(parent)
+            brewing.title("Brewing Coffee")
+            brewing.geometry("200x100")
+            
+            label = tk.Label(brewing, text="Brewing your coffee...\nPlease wait :)")
+            label.pack(pady=20)
+
+            # 2. Define what happens after brewing
+            def finish_brewing():
+                brewing.destroy()  # close the brewing window
+                messagebox.showinfo("Success", f"{selected_coffee} is ready!")        
+                payment_frame.pack_forget()
+                show_success_frame(parent, go_back, price)
+
+            # 3. Schedule finish_brewing in 5 seconds (5000 ms)
+            payment_frame.after(5000, finish_brewing)
+            
         except OutOfStockError as e:
             logger(f"Out of stock for {selected_coffee}.")
             messagebox.showerror("Out of Stock", str(e))

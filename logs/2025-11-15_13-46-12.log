@@ -1,0 +1,19 @@
+=== New Coffee Bot Session: 2025-11-15 13:46:12 ===
+[2025-11-15 13:46:12] [INFO] - Welcome screen loaded successfully.
+[2025-11-15 13:46:14] [INFO] - Order screen loaded successfully.
+[2025-11-15 13:46:15] [INFO] - Selected Cappuccino coffee
+[2025-11-15 13:46:17] [INFO] - Selected coffee: Cappuccino selected. Price: $20.00 confirmed.
+[2025-11-15 13:46:17] [INFO] - Payment for Cappuccino confirmed.
+[2025-11-15 13:46:17] [INFO] - Build payment frame
+[2025-11-15 13:46:18] [INFO] - Attempting to make Cappuccino
+[2025-11-15 13:46:18] [INFO] - Checking stock for coffee: Required 1, In Stock 5
+[2025-11-15 13:46:18] [INFO] - Checking stock for milk: Required 2, In Stock 5
+[2025-11-15 13:46:18] [INFO] - Checking stock for water: Required 1, In Stock 5
+[2025-11-15 13:46:18] [INFO] - Checking stock for sugar: Required 0, In Stock 5
+[2025-11-15 13:46:18] [INFO] - Stock is sufficient for Cappuccino.
+[2025-11-15 13:46:18] [INFO] - Successfully made Cappuccino. 
+Updated stock:
+[2025-11-15 13:46:18] [INFO] - coffee: 4
+[2025-11-15 13:46:18] [INFO] - milk: 3
+[2025-11-15 13:46:18] [INFO] - water: 4
+[2025-11-15 13:46:18] [INFO] - sugar: 5

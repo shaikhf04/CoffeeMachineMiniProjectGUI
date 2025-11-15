@@ -1,0 +1,35 @@
+=== New Coffee Bot Session: 2025-11-15 13:58:21 ===
+[2025-11-15 13:58:21] [INFO] - Welcome screen loaded successfully.
+[2025-11-15 13:58:23] [INFO] - Order screen loaded successfully.
+[2025-11-15 13:58:24] [INFO] - Selected Latte coffee
+[2025-11-15 13:58:25] [INFO] - Selected coffee: Latte selected. Price: $15.00 confirmed.
+[2025-11-15 13:58:25] [INFO] - Payment for Latte confirmed.
+[2025-11-15 13:58:25] [INFO] - Build payment frame
+[2025-11-15 13:58:26] [INFO] - Attempting to make Latte
+[2025-11-15 13:58:26] [INFO] - Checking stock for coffee: Required 1, In Stock 5
+[2025-11-15 13:58:26] [INFO] - Checking stock for milk: Required 1, In Stock 5
+[2025-11-15 13:58:26] [INFO] - Checking stock for water: Required 1, In Stock 5
+[2025-11-15 13:58:26] [INFO] - Checking stock for sugar: Required 1, In Stock 5
+[2025-11-15 13:58:26] [INFO] - Stock is sufficient for Latte.
+[2025-11-15 13:58:26] [INFO] - Successfully made Latte. 
+Updated stock:
+[2025-11-15 13:58:26] [INFO] - coffee: 4
+[2025-11-15 13:58:26] [INFO] - milk: 4
+[2025-11-15 13:58:26] [INFO] - water: 4
+[2025-11-15 13:58:26] [INFO] - sugar: 4
+[2025-11-15 14:01:01] [INFO] - Order screen loaded successfully.
+[2025-11-15 14:01:03] [INFO] - Selected coffee: Latte selected. Price: $15.00 confirmed.
+[2025-11-15 14:01:03] [INFO] - Payment for Latte confirmed.
+[2025-11-15 14:01:03] [INFO] - Build payment frame
+[2025-11-15 14:01:04] [INFO] - Attempting to make Latte
+[2025-11-15 14:01:04] [INFO] - Checking stock for coffee: Required 1, In Stock 4
+[2025-11-15 14:01:04] [INFO] - Checking stock for milk: Required 1, In Stock 4
+[2025-11-15 14:01:04] [INFO] - Checking stock for water: Required 1, In Stock 4
+[2025-11-15 14:01:04] [INFO] - Checking stock for sugar: Required 1, In Stock 4
+[2025-11-15 14:01:04] [INFO] - Stock is sufficient for Latte.
+[2025-11-15 14:01:04] [INFO] - Successfully made Latte. 
+Updated stock:
+[2025-11-15 14:01:04] [INFO] - coffee: 3
+[2025-11-15 14:01:04] [INFO] - milk: 3
+[2025-11-15 14:01:04] [INFO] - water: 3
+[2025-11-15 14:01:04] [INFO] - sugar: 3

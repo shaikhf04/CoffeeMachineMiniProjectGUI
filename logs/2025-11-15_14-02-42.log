@@ -1,0 +1,19 @@
+=== New Coffee Bot Session: 2025-11-15 14:02:42 ===
+[2025-11-15 14:02:42] [INFO] - Welcome screen loaded successfully.
+[2025-11-15 14:02:52] [INFO] - Order screen loaded successfully.
+[2025-11-15 14:03:06] [INFO] - Selected Black Coffee coffee
+[2025-11-15 14:03:08] [INFO] - Selected coffee: Black Coffee selected. Price: $10.00 confirmed.
+[2025-11-15 14:03:08] [INFO] - Payment for Black Coffee confirmed.
+[2025-11-15 14:03:08] [INFO] - Build payment frame
+[2025-11-15 14:03:09] [INFO] - Attempting to make Black Coffee
+[2025-11-15 14:03:09] [INFO] - Checking stock for coffee: Required 1, In Stock 5
+[2025-11-15 14:03:09] [INFO] - Checking stock for milk: Required 0, In Stock 5
+[2025-11-15 14:03:09] [INFO] - Checking stock for water: Required 1, In Stock 5
+[2025-11-15 14:03:09] [INFO] - Checking stock for sugar: Required 0, In Stock 5
+[2025-11-15 14:03:09] [INFO] - Stock is sufficient for Black Coffee.
+[2025-11-15 14:03:09] [INFO] - Successfully made Black Coffee. 
+Updated stock:
+[2025-11-15 14:03:09] [INFO] - coffee: 4
+[2025-11-15 14:03:09] [INFO] - milk: 5
+[2025-11-15 14:03:09] [INFO] - water: 4
+[2025-11-15 14:03:09] [INFO] - sugar: 5
