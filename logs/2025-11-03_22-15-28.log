@@ -1,0 +1,37 @@
+=== New Coffee Bot Session: 2025-11-03 22:15:28 ===
+[2025-11-03 22:15:31] [INFO] - Welcome screen loaded successfully.
+[2025-11-03 22:15:38] [INFO] - Order screen loaded successfully.
+[2025-11-03 22:15:46] [INFO] - Warning: No coffee selected
+[2025-11-03 22:15:53] [INFO] - Selected Latte coffee
+[2025-11-03 22:15:56] [INFO] - Selected coffee: Latte selected. Price: $15.00 confirmed.
+[2025-11-03 22:15:56] [INFO] - Payment for Latte confirmed.
+[2025-11-03 22:15:56] [INFO] - Build payment frame
+[2025-11-03 22:16:13] [INFO] - Attempting to make Latte
+[2025-11-03 22:16:13] [INFO] - Checking stock for coffee: Required 1, In Stock 5
+[2025-11-03 22:16:13] [INFO] - Checking stock for milk: Required 1, In Stock 5
+[2025-11-03 22:16:13] [INFO] - Checking stock for water: Required 1, In Stock 5
+[2025-11-03 22:16:13] [INFO] - Checking stock for sugar: Required 1, In Stock 5
+[2025-11-03 22:16:13] [INFO] - Stock is sufficient for Latte.
+[2025-11-03 22:16:13] [INFO] - Successfully made Latte. 
+Updated stock:
+[2025-11-03 22:16:13] [INFO] - coffee: 4
+[2025-11-03 22:16:13] [INFO] - milk: 4
+[2025-11-03 22:16:13] [INFO] - water: 4
+[2025-11-03 22:16:13] [INFO] - sugar: 4
+[2025-11-03 22:16:41] [INFO] - Order screen loaded successfully.
+[2025-11-03 22:16:42] [INFO] - Selected Cappuccino coffee
+[2025-11-03 22:16:45] [INFO] - Selected coffee: Cappuccino selected. Price: $20.00 confirmed.
+[2025-11-03 22:16:45] [INFO] - Payment for Cappuccino confirmed.
+[2025-11-03 22:16:46] [INFO] - Build payment frame
+[2025-11-03 22:16:47] [INFO] - Attempting to make Cappuccino
+[2025-11-03 22:16:47] [INFO] - Checking stock for coffee: Required 1, In Stock 4
+[2025-11-03 22:16:47] [INFO] - Checking stock for milk: Required 2, In Stock 4
+[2025-11-03 22:16:47] [INFO] - Checking stock for water: Required 1, In Stock 4
+[2025-11-03 22:16:47] [INFO] - Checking stock for sugar: Required 0, In Stock 4
+[2025-11-03 22:16:48] [INFO] - Stock is sufficient for Cappuccino.
+[2025-11-03 22:16:48] [INFO] - Successfully made Cappuccino. 
+Updated stock:
+[2025-11-03 22:16:48] [INFO] - coffee: 3
+[2025-11-03 22:16:48] [INFO] - milk: 2
+[2025-11-03 22:16:48] [INFO] - water: 3
+[2025-11-03 22:16:48] [INFO] - sugar: 4
